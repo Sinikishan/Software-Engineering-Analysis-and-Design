@@ -8,3 +8,7 @@ This contains a few templates given for learning Ishikawa Diagram ( 1 and 2 only
 3. This is a sample Interview file for conducting Interviews as part of Data Gathering in Software Analysis and Design
 
 4. There is a example for Fully developed Use Case Narrative for "With draw Money from ATM"
+
+5. There is sample Enterprise Architect Diagram for Withdraw Use Case
+
+6. Have given the screen shot of the EA diagram, if in case students are unable to see the diagram!
